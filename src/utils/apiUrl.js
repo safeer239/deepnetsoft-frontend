@@ -1,0 +1,1 @@
+export const backendUrl = `https://deepnetsoft-backend-1xiw.onrender.com`
